@@ -15,7 +15,7 @@
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
     "contentful": "^10.5.2",
-    "next": "13.5.1",
+    "next": "14.2.35",
     "postcss": "8.4.30",
     "react": "18.2.0",
     "react-dom": "18.2.0",
